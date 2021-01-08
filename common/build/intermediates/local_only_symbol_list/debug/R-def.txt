@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+attr? userFloatingLabel
+drawable avatar
+string app_name
+string sp_name
+styleable MaterialEditText userFloatingLabel

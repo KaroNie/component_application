@@ -1,0 +1,8 @@
+rootProject.name='ComponentApplication'
+include ':app'
+include ':word'
+include ':task'
+include ':common'
+include ':router_annotation'
+include ':arouter'
+include ':router_annotation_compiler'

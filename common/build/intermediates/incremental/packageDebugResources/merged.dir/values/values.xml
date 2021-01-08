@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Component</string>
+    <string name="sp_name">setting</string>
+    <declare-styleable name="MaterialEditText">
+        <attr format="boolean" name="userFloatingLabel"/>
+    </declare-styleable>
+</resources>
